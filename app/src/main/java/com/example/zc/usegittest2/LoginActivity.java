@@ -41,7 +41,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
 
     /**
-     * 第二次修改，测试git版本控制
+     * 第四次修改，测试git版本控制。假设本次代码写出BUg。
      */
 
 
