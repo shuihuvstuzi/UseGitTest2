@@ -43,7 +43,9 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
     /**
      * 第三次修改，测试git版本控制
      */
-
+    /**
+     * 第六次修改，完成登录注册界面
+     */
 
     /**
      * Id to identity READ_CONTACTS permission request.
